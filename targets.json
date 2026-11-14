@@ -1,0 +1,42 @@
+{
+  "company_id": 77,
+  "company_name": "СПб ГБУК «Театр на Садовой»",
+  "targets": [
+    {
+      "key": "volki-i-ovtsy",
+      "title": "Волки и овцы",
+      "url": "https://pkteatr.ru/theatr/performances/volki-i-ovtsy",
+      "links": [
+        "https://pkteatr.ru/theatr/performances/volki-i-ovtsy?date=2026-12-11&time=19:00:00"
+      ],
+      "show_id": 49
+    },
+    {
+      "key": "chelovek-iz-podolska",
+      "title": "Человек из Подольска",
+      "url": "https://pkteatr.ru/theatr/performances/chelovek-iz-podolska",
+      "links": [
+        "https://pkteatr.ru/theatr/performances/chelovek-iz-podolska?date=2026-12-26&time=19:00:00"
+      ],
+      "show_id": 6
+    },
+    {
+      "key": "prestuplenie-i-nakazanie",
+      "title": "Преступление и наказание",
+      "url": "https://pkteatr.ru/theatr/performances/prestuplenie-i-nakazanie",
+      "links": [
+        "https://pkteatr.ru/theatr/performances/prestuplenie-i-nakazanie?date=2026-12-28&time=19:00:00"
+      ],
+      "show_id": 9
+    },
+    {
+      "key": "idiot",
+      "title": "Идиот",
+      "url": "https://pkteatr.ru/theatr/performances/idiot",
+      "links": [
+        "https://pkteatr.ru/theatr/performances/idiot?date=2026-11-06&time=19:00:00"
+      ],
+      "show_id": 31
+    }
+  ]
+}
